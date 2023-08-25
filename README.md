@@ -3,7 +3,7 @@ Unfinished submission for [Shell.ai Hackathon 2023](https://www.shell.com/conten
 
 In this hackathon, participants get chance to design a sustainable and efficient agricultural waste collection network for the state of Gujarat, India, by predicting the waste generation potential in the given area.
 
-we are given a time-series of biomass availability in the state of Gujarat from year 2010 to 2017, formatted as a matrix fo 2147 harvesting sites sorted by latitude and longitude.
+We are given a time-series of biomass availability in the state of Gujarat from year 2010 to 2017, formatted as a matrix fo 2147 equisized harvesting sites sorted by latitude and longitude.
 
 ## prediction.py
 this script takes account of each harvesting site's previous history, then uses ARIMA Time series forecasting to predict the biomass production for 2018 and 2019.
@@ -18,7 +18,7 @@ The prediction is written to a csv file as formatted below:
 |1.215570862668064045e+01|2.452884211394681557e+01|
 
 ## visualise.py
-Reads in the 2010 to 2017 data as well as the 2018 and 2019 forecast data and presents it as a series of easily readable heatmapa using matplotlib.
+Reads in the 2010 to 2017 data as well as the 2018 and 2019 forecast data and presents it as a series of easily readable heatmaps using matplotlib.
 
 <img width="556" alt="prediction heatmap example" src="https://github.com/EbukaAmadiObi/ShellHackathon/assets/53743864/b3837a28-1ad3-4ba1-8f73-8e5568683840">
 
