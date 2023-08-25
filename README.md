@@ -18,8 +18,8 @@ The prediction is written to a csv file as formatted below:
 |1.215570862668064045e+01|2.452884211394681557e+01|
 
 ## visualise.py
-Reads in the 2010 to 2017 data as well as the 2018 and 2019 forecast data and presents it as an easily readable heatmap using matplotlib.
+Reads in the 2010 to 2017 data as well as the 2018 and 2019 forecast data and presents it as a series of easily readable heatmapa using matplotlib.
 
-<img width="556" alt="2018" src="https://github.com/EbukaAmadiObi/ShellHackathon/assets/53743864/b3837a28-1ad3-4ba1-8f73-8e5568683840">
+<img width="556" alt="prediction heatmap example" src="https://github.com/EbukaAmadiObi/ShellHackathon/assets/53743864/b3837a28-1ad3-4ba1-8f73-8e5568683840">
 
 
