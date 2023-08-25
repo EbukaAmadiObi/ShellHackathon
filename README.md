@@ -1,4 +1,4 @@
-# ShellHackathon
+# ShellHackathon Project
 Unfinished submission for [Shell.ai Hackathon 2023](https://www.shell.com/content/shell/corporate/global/en_gb/energy-and-innovation/digitalisation/digital-and-ai-competitions/shell-ai-hackathon-for-sustainable-and-affordable-energy/_jcr_content/root/main/section/simple/simple/call_to_action/links/item0.stream/1689930670046/ffd0dc218e58bf39a13cd70bc306c81d3a1fb9a1/detailed-problem-statement.pdf)
 
 In this hackathon, participants get chance to design a sustainable and efficient agricultural waste collection network for the state of Gujarat, India, by predicting the waste generation potential in the given area.
