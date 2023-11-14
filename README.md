@@ -1,5 +1,5 @@
 # ShellHackathon Project
-Unfinished submission for [Shell.ai Hackathon 2023](https://www.shell.com/content/shell/corporate/global/en_gb/energy-and-innovation/digitalisation/digital-and-ai-competitions/shell-ai-hackathon-for-sustainable-and-affordable-energy/_jcr_content/root/main/section/simple/simple/call_to_action/links/item0.stream/1689930670046/ffd0dc218e58bf39a13cd70bc306c81d3a1fb9a1/detailed-problem-statement.pdf)
+Unfinished project for [Shell.ai Hackathon 2023](https://www.shell.com/content/shell/corporate/global/en_gb/energy-and-innovation/digitalisation/digital-and-ai-competitions/shell-ai-hackathon-for-sustainable-and-affordable-energy/_jcr_content/root/main/section/simple/simple/call_to_action/links/item0.stream/1689930670046/ffd0dc218e58bf39a13cd70bc306c81d3a1fb9a1/detailed-problem-statement.pdf)
 
 In this hackathon, participants get chance to design a sustainable and efficient agricultural waste collection network for the state of Gujarat, India, by predicting the waste generation potential in the given area.
 
@@ -20,6 +20,9 @@ The prediction is written to a csv file as formatted below:
 ## visualise.py
 Reads in the 2010 to 2017 data as well as the 2018 and 2019 forecast data and presents it as a series of easily readable heatmaps using matplotlib.
 
-<img width="556" alt="prediction heatmap example" src="https://github.com/EbukaAmadiObi/ShellHackathon/assets/53743864/b3837a28-1ad3-4ba1-8f73-8e5568683840">
 
+![forecast_visual](https://github.com/EbukaAmadiObi/ShellHackathon/assets/53743864/d3b1c8f8-2e38-4588-a217-449359db2a9a)
+
+## What's Left?
+The other half of the hackathon's problem description was to place depots and refineries around the map to collect and process the biomass effectively. Distance and depot capacity are taken into account to find the best locations for each structure. I found this part of the project quite difficult and unfortunately couldn't finish it within the time limit.
 
