@@ -26,3 +26,6 @@ Reads in the 2010 to 2017 data as well as the 2018 and 2019 forecast data and pr
 ## What's Left?
 The other half of the hackathon's problem description was to place depots and refineries around the map to collect and process the biomass effectively. Distance and depot capacity are taken into account to find the best locations for each structure. I found this part of the project quite difficult and unfortunately couldn't finish it within the time limit.
 
+## Update: Accuracy Calculation
+Since the hackathon's conclusion, the actual values for the biomass production have been released. Using these values it can be calculated that the time-series forecasting model achieved 79.3% accuracy for 2018 and 91.8% accuracy for 2019.
+
